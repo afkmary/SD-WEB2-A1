@@ -2,7 +2,7 @@
 
 // sample data - expanded Star Wars characters with varied ages
 const characters = [
-  { id: 1, name: "Luke Skywalker" age: 23 },
+  { id: 1, name: "Luke Skywalker", age: 23 },
   { id: 2, name: "Darth Vader", age: 45 },
   { id: 3, name: "Princess Leia", age: 23 },
   { id: 4, name: "Obi-Wan Kenobi", age: 57 },
@@ -11,7 +11,7 @@ const characters = [
   { id: 7, name: "Chewbacca", age: 234 },
   { id: 8, name: "R2-D2", age: 33 },
   { id: 9, name: "C-3PO", age: 112 },
-  { id: 10, name: "Padmé Amidala", age: 27 },
+  { id: 10, name: "Padmé Amidala", age: 27 }
 ];
 
 // broken test data for exercise 6
